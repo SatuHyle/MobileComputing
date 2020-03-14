@@ -6,7 +6,7 @@ import androidx.room.*
 data class Reminder(
     @PrimaryKey(autoGenerate = true) var uid: Int?,
     @ColumnInfo(name = "time") var time: Long?,
-    @ColumnInfo(name = "location") var logation: String?,
+    @ColumnInfo(name = "location") var location: String?,
     @ColumnInfo(name = "message") var message: String
 )
 
