@@ -1,4 +1,4 @@
-package com.example.mobcomplab1
+package com.example.mobcomplab
 
 import org.junit.Test
 
