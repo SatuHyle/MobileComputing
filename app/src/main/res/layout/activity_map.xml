@@ -29,7 +29,7 @@
             android:layout_height="match_parent"
             android:layout_toRightOf="@+id/searchAutoComplete"
             android:layout_weight="1"
-            tools:srcCompat="@android:drawable/ic_menu_search" />
+            tools:srcCompat="?android:attr/actionModeWebSearchDrawable" />
 
     </LinearLayout>
     <fragment
